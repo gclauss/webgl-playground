@@ -1,0 +1,19 @@
+{
+  "name": "webgl-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gclauss/webgl-playground.git"
+  },
+  "author": "gclauss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gclauss/webgl-playground/issues"
+  },
+  "homepage": "https://github.com/gclauss/webgl-playground#readme"
+}
