@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/gclauss/webgl-playground#readme",
   "dependencies": {
-    "express": "^4.13.4"
   }
 }
